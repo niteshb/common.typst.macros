@@ -1,0 +1,7 @@
+[package]
+name = "macros"
+version = "0.1.0"
+entrypoint = "@main.typ"
+authors = ["Vayavya Edutech & Consulting LLP"]
+license = "MIT"
+description = "Some nice macros for academic work."
