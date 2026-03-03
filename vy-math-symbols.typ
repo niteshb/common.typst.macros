@@ -63,3 +63,11 @@
 #let vy-C(n, r) = {
   $attach(C, tl: #n, br: #r)$
 }
+
+#let vy-derangement(n) = {
+  $#n¡$
+}
+
+// Operators
+#let vy-operator-approx-eq = sym.tilde.equiv
+#let vy-operator-set-minus = $without$
