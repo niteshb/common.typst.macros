@@ -71,3 +71,4 @@
 // Operators
 #let vy-operator-approx-eq = sym.tilde.equiv
 #let vy-operator-set-minus = $without$
+#let vy-operator-is-defined-as = sym.equiv
